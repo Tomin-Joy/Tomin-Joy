@@ -65,7 +65,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomin-Joy&show_icons=true&locale=en&layout=compact&hide=Jupyter Notebook&hide_border=true&theme=react" alt="Tomin-Joy" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomin-Joy&show_icons=true&locale=en&layout=compact&hide_border=true&theme=react" alt="Tomin-Joy" />
    </a>
   <br><br><br><br><br><br>
   <hr>
