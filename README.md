@@ -35,7 +35,7 @@
   <code><img title="Java" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/java-original.svg"></code>
   <code><img title="Django" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/django.png"></code>
   <code><img title="Tkinter" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/Tkinter.png"></code>
-  <code><img title="Kivy" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/kivy.png"></code>
+  <code><img title="Kivy" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/Kivy.png"></code>
   <code><img title="Qt" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/Qt.png"></code>
   <code><img title="Javascript" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/problemSolving.png"></code>
@@ -68,10 +68,20 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomin-Joy&show_icons=true&locale=en&layout=compact&hide=Jupyter Notebook&hide_border=true&theme=react" alt="Tomin-Joy" />
    </a>
   <br><br><br><br><br><br>
-  <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+  <hr>
+  <i>Random dev joke for you!</i><br>
   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
   </div>
   <br>
   
 </p>
+
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Tomin-Joy/Mechvibe" title="Mechvibe"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Mechvibe&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
