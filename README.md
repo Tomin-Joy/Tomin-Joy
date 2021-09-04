@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;This+is+Tomin+Joy....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;I+am+Tomin+Joy....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -31,7 +31,6 @@
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/c.svg"></code>
   <code><img title="C++" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/python-original.svg"></code>
   <code><img title="Django" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/django.png"></code>
   <code><img title="Java" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/java-original.svg"></code>
@@ -64,9 +63,11 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomin-Joy&show_icons=true&locale=en&layout=compact&hide=Jupyter Notebook&hide_border=true&theme=react" alt="Tomin-Joy" />
    </a>
+  <br><br><br><br><br><br>
+  <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
   </div>
   <br>
   
 </p>
 
-<hr>
