@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tomin-Joy.Tomin-Joy">
+<img align="right" src="https://komarev.com/ghpvc/?username=Tomin-Joy&color=blueviolet">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
