@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;I+am+Tomin+Joy....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;I+am+Tomin+Joy....;Nice+to+meet+you!;👇+Reach+Me+Through+👇&center=true&size=30">
   </a>
 </h1>
 
@@ -71,8 +71,8 @@
   <hr>
   <i>Random dev joke for you!</i><br>
   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-  </div>
   <br>
+  </div>
   
 </p>
 
@@ -81,9 +81,16 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Tomin-Joy/Mechvibe" title="Mechvibe"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Mechvibe&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Tomin-Joy/Force-Calculator" title="Force-Calculator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Force-Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Tomin-Joy/Mechvibe" title="Mechvibe"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Mechvibe&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Tomin-Joy/Force-Calculator" title="Force-Calculator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Force-Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+<h4 align="centre">
+  <div width="100%" align="center">
+    <a align="centre" href="https://github.com/Tomin-Joy/Sorting-Algorithms" title="Sorting-Algorithms"><img align="centre" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Sorting-Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+  </div>
+ </h4>
+<br/></br>
 <h4 align="center">
   <a href="https://github.com/Tomin-Joy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
