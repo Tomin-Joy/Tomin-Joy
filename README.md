@@ -37,6 +37,7 @@
   <code><img title="Tkinter" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/Tkinter.png"></code>
   <code><img title="Kivy" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/Kivy.png"></code>
   <code><img title="Qt" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/Qt.png"></code>
+  <code><img title="Flutter" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/flutter.png"></code>
   <code><img title="Javascript" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/problemSolving.png"></code>
   <code><img title="Jupyter - Notebook" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/jupyter.png"></code>
