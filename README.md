@@ -56,18 +56,12 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Tomin-Joy&theme=react&border=61dafb&hide_border=true" alt="Tomin-Joy" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Tomin-Joy&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&show_icons=false" />
-    </a>
+    <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Tomin-Joy&theme=react&hide_border=true&bg_color=0D1117" alt="Tomin-Joy" />
+    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Tomin-Joy&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&show_icons=false" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomin-Joy&show_icons=true&count_private=true&langs_count=10&hide=ruby&locale=en&layout=compact&hide_border=true&theme=react" alt="Tomin-Joy" />
-   </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomin-Joy&show_icons=true&count_private=true&langs_count=10&hide=ruby&locale=en&layout=compact&hide_border=true&theme=react" alt="Tomin-Joy" />
   <br><br><br><br><br><br>
   <hr>
   <i>Random dev joke for you!</i><br>
