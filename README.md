@@ -22,7 +22,7 @@
   <br>
   💬 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
   <br>
-  📫 How to reach me: <a href="mailto: tomnijkoo7@gmail.com">Mail</a>
+  📫 How to reach me: <a href="mailto: tomnijkoo7@gmail.com">Mail</a>,<a href="https://www.instagram.com/tom.in._/"> Instagram</a>,<a href="https://api.whatsapp.com/send?phone=919400836474&text=Hi%20found%20your%20GitHub%20Profile.%20%20I%20like%20to%20connect%20with%20you"> WhatsApp</a>
 </p>
 
 <hr>
