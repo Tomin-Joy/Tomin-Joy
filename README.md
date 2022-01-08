@@ -7,9 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/tomin-joy/" title="LinkedIn Profile"><img width="22" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/tomin-joy/" title="LinkedIn Profile"><img width="22" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/tom.in._/" title="Instagram Profile"><img width="22" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://api.whatsapp.com/send?phone=919400836474&text=Hi%20found%20your%20GitHub%20Profile.%20%20I%20like%20to%20connect%20with%20you" title="Connect"><img width="22" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/whatsApp.png"> WhatsApp</a></code>
 </h5>
 <br>
 <p align="center">
