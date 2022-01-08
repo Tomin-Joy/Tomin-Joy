@@ -76,17 +76,20 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Tomin-Joy/Mechvibe" title="Mechvibe"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Mechvibe&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Tomin-Joy/Force-Calculator" title="Force-Calculator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Force-Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Tomin-Joy/Mechvibe" title="Mechvibe"><img align="left" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Mechvibe&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Tomin-Joy/Force-Calculator" title="Force-Calculator"><img align="right" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Force-Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-
-  <div width="100%" align="center">
-    <a align="left" href="https://github.com/Tomin-Joy/Sorting-Algorithms" title="Sorting-Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Sorting-Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/Tomin-Joy/Calculator" title="Calculator"><img align="right" width = "325" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
-  </div>
-  
- <br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Tomin-Joy/Sorting-Algorithms" title="Sorting-Algorithms"><img align="left" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Sorting-Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Tomin-Joy/Calculator" title="Calculator"><img align="right" height="120" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Tomin-Joy/ktu-s3-ds-lab" title="Data Structure lab"><img align="left" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=ktu-s3-ds-lab&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Tomin-Joy/ktu-s3-oopj-lab" title="Object Oriented Programming lab"><img align="right" height="115" width = "330" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=ktu-s3-oopj-lab&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/Tomin-Joy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
