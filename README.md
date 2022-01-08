@@ -83,7 +83,7 @@
 
   <div width="100%" align="center">
     <a align="left" href="https://github.com/Tomin-Joy/Sorting-Algorithms" title="Sorting-Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Sorting-Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/Tomin-Joy/calculator" title="calculator"><img align="right" height="115" width = "325" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=calculator&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/Tomin-Joy/Calculator" title="Calculator"><img align="right" width = "325" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomin-Joy&repo=Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
   
  <br/><br/><br/><br/><br/><br/>
