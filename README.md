@@ -33,12 +33,14 @@
   <code><img title="C++" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/cpp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/python-original.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/java-original.svg"></code>
+  <code><img title="HTML" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/css.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/javascript.svg"></code>
   <code><img title="Django" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/django.png"></code>
   <code><img title="Tkinter" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/Tkinter.png"></code>
   <code><img title="Kivy" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/Kivy.png"></code>
   <code><img title="Qt" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/Qt.png"></code>
   <code><img title="Flutter" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/flutter.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/problemSolving.png"></code>
   <code><img title="Jupyter - Notebook" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/jupyter.png"></code>
   <code><img title="Git" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/git-original.svg"></code>
