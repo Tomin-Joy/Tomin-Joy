@@ -7,9 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/tomin-joy/" title="LinkedIn Profile"><img width="22" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/tom.in._/" title="Instagram Profile"><img width="22" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://api.whatsapp.com/send?phone=919400836474&text=Hi%20found%20your%20GitHub%20Profile.%20%20I%20like%20to%20connect%20with%20you" title="Connect"><img width="22" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/whatsApp.png"> WhatsApp</a></code>
+  <code><a href="https://www.linkedin.com/in/tomin-joy/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/tom.in._/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://api.whatsapp.com/send?phone=919400836474&text=Hi%20found%20your%20GitHub%20Profile.%20%20I%20like%20to%20connect%20with%20you" title="Connect"><img width="22" src="images/whatsApp.png"> WhatsApp</a></code>
 </h5>
 <br>
 <p align="center">
@@ -30,28 +30,28 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/python-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/java-original.svg"></code>
-  <code><img title="HTML" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/css.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/javascript.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/django.png"></code>
-  <code><img title="Tkinter" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/Tkinter.png"></code>
-  <code><img title="Kivy" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/Kivy.png"></code>
-  <code><img title="Qt" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/Qt.png"></code>
-  <code><img title="Flutter" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/flutter.png"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/problemSolving.png"></code>
-  <code><img title="Jupyter - Notebook" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/jupyter.png"></code>
-  <code><img title="Git" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/visualstudio.png"></code>
-  <code><img title="JSON" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/json.svg"></code>
-  <code><img title="Android" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/mysql.svg"></code>
-  <code><img title="Flask" height="25" src="https://github.com/Tomin-Joy/Tomin-Joy/blob/main/images/flask.png"></code>
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="HTML" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="Tkinter" height="25" src="images/Tkinter.png"></code>
+  <code><img title="Kivy" height="25" src="images/Kivy.png"></code>
+  <code><img title="Qt" height="25" src="images/Qt.png"></code>
+  <code><img title="Flutter" height="25" src="images/flutter.png"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="Jupyter - Notebook" height="25" src="images/jupyter.png"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="Android" height="25" src="images/android.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <hr>
 
