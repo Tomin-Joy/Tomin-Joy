@@ -24,7 +24,8 @@
   <br>
   📫 How to reach me: <a href="mailto: tomnijkoo7@gmail.com">Mail</a>,<a href="https://www.instagram.com/tom.in._/"> Instagram</a>,<a href="https://api.whatsapp.com/send?phone=919400836474&text=Hi%20found%20your%20GitHub%20Profile.%20%20I%20like%20to%20connect%20with%20you"> WhatsApp</a>
 </p>
-
+<hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tomin-Joy&column=9&no-frame=true&no-bg=true&theme=algolia&row=1 alt="ashly0115" /></a> </p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
