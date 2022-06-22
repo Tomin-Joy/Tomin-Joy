@@ -25,8 +25,8 @@
   📫 How to reach me: <a href="mailto: tomnijkoo7@gmail.com">Mail</a>,<a href="https://www.instagram.com/tom.in._/"> Instagram</a>,<a href="https://api.whatsapp.com/send?phone=919400836474&text=Hi%20found%20your%20GitHub%20Profile.%20%20I%20like%20to%20connect%20with%20you"> WhatsApp</a>
 </p>
 <hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tomin-Joy&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest,Organizations&column=7&no-frame=true&no-bg=true&theme=algolia&row=2" alt="ashly0115" /></a> </p>
-<hr>
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tomin-Joy&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest,Organizations&column=7&no-frame=true&no-bg=true&theme=algolia&row=2" alt="ashly0115" /></a> </p>
+<hr>-->
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -55,27 +55,6 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Tomin-Joy&theme=react&hide_border=true&bg_color=0D1117" alt="Tomin-Joy" />
-    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Tomin-Joy&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&show_icons=false" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomin-Joy&show_icons=true&count_private=true&langs_count=10&hide=ruby&locale=en&layout=compact&hide_border=true&theme=react" alt="Tomin-Joy" />
-  <br><br><br><br><br><br>
-  <hr>
-  <i>Random dev joke for you!</i><br>
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-  <br>
-  </div>
-  
-</p>
-
-<hr>
-
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -96,4 +75,24 @@
 <h4 align="center">
   <a href="https://github.com/Tomin-Joy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+ <hr>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Tomin-Joy&theme=react&hide_border=true&bg_color=0D1117" alt="Tomin-Joy" />
+    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Tomin-Joy&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&show_icons=false" />
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tomin-Joy&show_icons=true&count_private=true&langs_count=10&hide=ruby&locale=en&layout=compact&hide_border=true&theme=react" alt="Tomin-Joy" />
+  <br><br><br><br><br><br>
+ <hr>
+  <div align="center">
+  <i>Random dev joke for you!</i><br>
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+  <br>
+  </div>
+  
+</p>
