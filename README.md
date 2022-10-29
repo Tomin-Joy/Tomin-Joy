@@ -27,6 +27,8 @@
 <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tomin-Joy&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest,Organizations&column=7&no-frame=true&no-bg=true&theme=algolia&row=2" alt="Tomin Joy" /></a> </p>
 <hr>
+<a href="https://holopin.io/@tomin_joy" open="_blank"><img title="@tomin_joy's Holopin board" src="https://holopin.me/tomin_joy"></a>
+<hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
