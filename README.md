@@ -55,7 +55,7 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
-<hr>
+<!-- <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
@@ -76,7 +76,7 @@
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/Tomin-Joy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</h4> -->
  <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
